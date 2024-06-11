@@ -1,0 +1,469 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.container{
+    width: 1000px;
+    height: 730vh;
+border: 2px solid white;
+padding-left: 500px;
+
+  
+}
+.title{
+      color: white;
+    padding: 5px;
+    font-style: unset;
+    width: 990px;
+    height: 100px;
+    background-color: black;
+    border: 1px solid white
+}
+.title ul li{
+    padding-left: 8px;
+    list-style-type: none;
+    display: inline;
+    padding-right: 10px;
+    display: inline;right: 20px;
+
+    
+}
+.title ul{
+    float: right;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding-left: 30px;
+}
+.designer{
+    padding: 80px;
+    width: 840px;
+    height: 170px;
+    background-color:black;
+}
+h2{
+    color: white;
+    font-size: 35px;
+}
+p{  
+    position: relative;
+    left: 10px;
+    color: rgb(89, 84, 84);
+    margin-bottom: 55px;
+    font-size: medium;
+}
+.click-bar{
+    background-color: orange;
+    color: black;
+    padding: 20px;
+    cursor:pointer;
+    width: 145px;
+    border-radius: 40px 40px 40px 40px;
+
+}
+
+.discover{
+
+    background-color: white;
+    padding-left: 5px;
+    top: 90px;
+
+}
+h4{
+    top: 50px;
+    font-size:50px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+.img{
+    float: right;
+    position: absolute;
+     top: 470px;
+    left:1130px;
+}
+h5{
+    position: absolute;
+    font-size:x-large;
+     left: 750px;
+    top:910px;
+    padding-bottom: 120px; 
+    display: inline; 
+} 
+.space{
+    height: 190px;
+    width: 805px;
+    background-color: white;
+}
+.unique{
+    width:1000px;
+    height: 400px;
+    background-color:black;
+    right: 80px;
+    position: relative;
+ 
+
+}
+.h9{
+    width: 1000px;
+    right: 200px;
+    padding-left: 100px;
+
+}
+
+.unique1{ 
+    position: absolute;
+    right: 250px ;
+    font-size: larger;
+    color: rgb(93, 92, 92);
+    padding-top: 60px;
+    display: inline;
+    padding-left: 100px;
+}
+h6{
+    position: relative;
+    color: white;
+    font-size: 45px;
+    left: 750px;
+    top: 100px;
+
+
+}
+.img1{    width: 200px;
+    height: 90px;
+    border-radius: 600px;
+    overflow: hidden;
+    position: absolute;
+    left: 480px;
+  }
+.click-bar1{
+    background-color: orange;
+    color: black;
+    padding: 10px;
+    cursor:pointer;
+    width: 160px;
+    border-radius: 40px 40px 40px 40px;
+    position: absolute;
+    right: 30px; 
+    bottom: 450pxz;
+}
+.content{
+    width: 1000px;
+    color: white;
+    border: 2px solid white;
+    height: 1000px;
+    background-color: aqua;
+    padding-bottom: 300px;
+    position: relative;
+}
+.col{
+    left: 20px;
+    bottom: 150px;
+}
+.jaga{
+    background-color:black;
+    height: 100px;
+    color: black;
+    right: 1px;
+    top: 400px;
+    width: 950px;
+    padding-bottom: 300px;
+    position: absolute;
+    padding-left: 50px;
+    right: -250px;
+}
+h7{
+    width: 100%;
+   font-size: large;
+    padding: 05px;
+    border: 20px, 20px,20px,20px;
+    height: 32px;
+    margin-right: 20px;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.col{
+width:200px;
+border: 1px solid white;
+height: 350px;
+background-color:black;
+float: left;
+margin: 1px;
+border-radius: 10px 10px 10px 10px;
+left:160px;
+bottom: 50px;
+
+}
+li{
+    padding-top:  70px;
+    color: beige;
+}
+.meerourteam{
+    position: relative;
+    width: 1000px;
+    height: 600px;
+    background-color:white;
+    top: 590px;
+    right: -20px;
+    left: 250px;
+
+    
+
+}
+h8{
+    position: relative; 
+    left: 60px;
+    font-size: 60px;
+    color: black;
+}
+.click-bar2{
+    right: 800px;
+    background: orange;
+    color: black;
+    border-radius: 40px 40px 40px 40px;
+    width:160px;
+    height: 40px;
+    position: relative;
+    left: 40px;
+}
+.img4{
+    position: relative;
+    left:500px;
+    bottom: 440px;
+
+}
+h11{
+    left: 30px;
+    bottom: 550px;
+    position: relative;
+
+}
+.customer{
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(246, 244, 244);
+    position: relative;
+    top: 590px;
+    left: 250px;
+}
+h12{
+    color: black;
+    position: relative;
+    left: 550px;
+    font-size: small;
+    top: 30px;
+}
+h13{
+
+    top: 100px;
+    font-size: 40px;
+    color: black;
+    position: relative;
+    right: 0px;
+}
+h14{
+
+    top: 150px;
+    font-size: 40px;
+    color:black;
+    position: relative;
+    right: 250px;
+}
+.img5{
+    width: 0px;
+    position: relative;
+    left:460px;
+    background-color: blue;
+    top: 240px;
+
+}
+h15{
+    position: relative;
+    font-size: medium;
+    color: black;
+    top: 400px ;
+    right: 500px;
+}
+h16{
+    font-size: small;
+    position: relative;
+    color: black;
+    left: 410px;
+    top: 405px;
+}
+h17{
+    font-size: smaller;
+    position: relative;
+    color: black;
+    left: 250px;
+    top: 440px;
+}
+
+.mover{
+    position: relative;
+    background-color: rgb(246, 244, 244);
+    width: 1000px;
+    height: 150px;
+    top: 435px;
+    left: 250px;
+}
+
+.popular{
+    position: relative;
+    width: 1000px;
+    height: 650px;
+    background-color: rgb(246, 244, 244);
+    top: 350vh;
+}
+h18{
+    position: relative;
+    font-size: 35px;
+    top: 50px;
+    left: 100px;
+}
+.img6{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+h20{
+    color: orange;
+}
+h19{
+    position: relative;
+    color: orange;
+    right: 330px;
+    top: 17px;
+}
+h21{
+    position: relative;
+    right: 330px;
+    top: 17px;
+}
+h23{
+    position: relative;
+    font-size:large;
+    color: black;
+    top: 27px;
+    right: 260px;
+}
+h24{
+    position: relative;
+    font-size: large;
+    color: black;
+    top: 27px;
+    right: 170px;
+
+}
+h25{
+    position: relative;
+    font-size: medium;
+    top: 60px; 
+    left: 10px;
+
+}
+h26{
+    position: relative;
+    font-size: medium;
+    top: 0px;
+    left:450px;
+}
+.footer{
+    position: relative;
+    background-color: black;
+    width: 1000px;
+    height:  445px;
+        top: 350vh;
+}
+h27{
+    color:white;
+    font-size: 40px;
+    position: relative;
+    left: 70px; 
+    top: 60px;
+}
+h28{
+    color: rgb(82, 78, 78);
+    font-size: small;
+    right: 55px;
+    top: 95px;
+    position: relative;
+}
+.click-bar3{
+    background-color: rgb(66, 65, 64);
+    color: rgb(115, 111, 111);
+
+    padding: 10px;
+    cursor:pointer;
+    width: 160px;
+    border-radius: 40px 40px 40px 40px;
+    position: relative;
+   left: 50px;
+    top: 305VH;
+}
+.power ul li{
+    width: 100px;
+    position: relative;
+    /* background-color: aquamarine; */
+    top: 270vh;
+    height: 0px;
+    color: white;
+    font-size: x-large;
+    left: 300px;
+    list-style-type: none;
+    padding-top: 20px;
+}
+.power2 ul li{
+    width: 100px;
+    position: relative;
+    top:230vh ;
+    list-style-type: none;
+    left: 600px;
+    padding:5px;
+}
+.img7{
+    position: relative;
+    top: 235vh;
+    left: 60px;
+}
+h30{
+    position: relative;
+    top: 230vh;
+    left: 370px;
+    color: white;
+    font-size: x-large;
+}
+h31{
+    position: relative;
+    top: 230vh;
+    left: 600px;
+    color: white;
+    font-size: x-large;
+}
+h32{
+    position: relative;
+    top: 240vh;
+    right: 110px;
+    color: rgb(90, 88, 88);
+    font-size: smaller;
+}
+h33{
+    position: relative;
+    top: 240vh;
+    right: 80px;
+    color: rgb(90, 88, 88);
+    font-size: smaller;
+}
+h34{
+    position: relative;
+    top: 240vh;
+    right: 60px;
+    color: rgb(90, 88, 88);
+    font-size: smaller;
+}
+@media (min-width: 470px){
+    
+}
